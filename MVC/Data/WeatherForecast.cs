@@ -1,4 +1,5 @@
 namespace MVC.Data;
+//ban//
 
 public class WeatherForecast
 {
