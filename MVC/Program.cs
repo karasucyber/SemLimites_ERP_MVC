@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
-using MVC.Data;
+using MVC.services;
 
 var builder = WebApplication.CreateBuilder(args);
 
