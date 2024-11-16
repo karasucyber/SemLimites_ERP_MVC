@@ -1,6 +1,10 @@
+using DotNetEnv;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
-using MVC.Data;
+using MVC.services;
+using MVC.settings;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,6 +12,18 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
 builder.Services.AddSingleton<WeatherForecastService>();
+
+
+//permite utilizar o .env no app
+var root = Directory.GetCurrentDirectory();
+var dotenv = Path.Combine(root, ".env");
+EnvConfig.Load(dotenv);
+ 
+//builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+//    .AddJwtBearer(JwtBearerDefaults.AuthenticationScheme,
+//        options => builder.Configuration.Bind("JwtSettings", options));
+
+
 
 var app = builder.Build();
 

@@ -22,6 +22,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Maurício Preto/Desktop/Projeto Sem Limites/MVC/components/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = Y29tcG9uZW50c1xTdXJ2ZXlQcm9tcHQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Maurício Preto/Desktop/Projeto Sem Limites/MVC/pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = cGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -34,21 +38,17 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = cGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Maurício Preto/Desktop/Projeto Sem Limites/MVC/Shared/SurveyPrompt.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Maurício Preto/Desktop/Projeto Sem Limites/MVC/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Maurício Preto/Desktop/Projeto Sem Limites/MVC/Shared/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-338ko2b7h9
+[C:/Users/Maurício Preto/Desktop/Projeto Sem Limites/MVC/components/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Y29tcG9uZW50c1xNYWluTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-xi802rckuj
 
-[C:/Users/Maurício Preto/Desktop/Projeto Sem Limites/MVC/Shared/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-9paungodfg
+[C:/Users/Maurício Preto/Desktop/Projeto Sem Limites/MVC/components/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Y29tcG9uZW50c1xOYXZNZW51LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-bkre148mog
 
 [C:/Users/Maurício Preto/Desktop/Projeto Sem Limites/MVC/pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = cGFnZXNcRXJyb3IuY3NodG1s
