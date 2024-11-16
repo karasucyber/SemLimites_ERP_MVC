@@ -1,6 +1,6 @@
 ﻿namespace MVC.settings
 {
-    public static class EnvConfig
+    public static class EnviromentConfig
     {
         public static void Load(string path)
         {

@@ -1,8 +1,6 @@
-using DotNetEnv;
-using Microsoft.AspNetCore.Authentication.Cookies;
+using System.Text;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.AspNetCore.Components;
-using Microsoft.AspNetCore.Components.Web;
+using Microsoft.IdentityModel.Tokens;
 using MVC.services;
 using MVC.settings;
 
@@ -17,12 +15,28 @@ builder.Services.AddSingleton<WeatherForecastService>();
 //permite utilizar o .env no app
 var root = Directory.GetCurrentDirectory();
 var dotenv = Path.Combine(root, ".env");
-EnvConfig.Load(dotenv);
- 
-//builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
-//    .AddJwtBearer(JwtBearerDefaults.AuthenticationScheme,
-//        options => builder.Configuration.Bind("JwtSettings", options));
+EnviromentConfig.Load(dotenv);
 
+
+//Estabelecendo authentication default e uso de JWT default tb.
+var key = Encoding.ASCII.GetBytes(JWTConfig.secret);
+builder.Services.AddAuthentication(config =>
+{
+    config.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+    config.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+
+}).AddJwtBearer(x =>
+{
+    x.RequireHttpsMetadata = false;
+    x.SaveToken = true;
+    x.TokenValidationParameters = new TokenValidationParameters
+    {
+        ValidateIssuerSigningKey = true,
+        IssuerSigningKey = new SymmetricSecurityKey(key),
+        ValidateIssuer = false,
+        ValidateAudience = false
+    };
+}); ;
 
 
 var app = builder.Build();
@@ -34,6 +48,9 @@ if (!app.Environment.IsDevelopment())
     // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
+
+//Injetando no app o serviço de autenticação
+app.UseAuthentication();
 
 app.UseHttpsRedirection();
 
