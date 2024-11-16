@@ -9,49 +9,51 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MVC
 build_property.RootNamespace = MVC
-build_property.ProjectDir = /home/karasu/Desktop/SemLimites_ERP_MVC/MVC/
+build_property.ProjectDir = C:\Users\Maurício Preto\Desktop\Projeto Sem Limites\MVC\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/karasu/Desktop/SemLimites_ERP_MVC/MVC
+build_property.MSBuildProjectDirectory = C:\Users\Maurício Preto\Desktop\Projeto Sem Limites\MVC
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/karasu/Desktop/SemLimites_ERP_MVC/MVC/App.razor]
+[C:/Users/Maurício Preto/Desktop/Projeto Sem Limites/MVC/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/karasu/Desktop/SemLimites_ERP_MVC/MVC/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
+[C:/Users/Maurício Preto/Desktop/Projeto Sem Limites/MVC/pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = cGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/karasu/Desktop/SemLimites_ERP_MVC/MVC/Pages/FetchData.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
+[C:/Users/Maurício Preto/Desktop/Projeto Sem Limites/MVC/pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = cGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/karasu/Desktop/SemLimites_ERP_MVC/MVC/Pages/Index.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+[C:/Users/Maurício Preto/Desktop/Projeto Sem Limites/MVC/pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = cGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/karasu/Desktop/SemLimites_ERP_MVC/MVC/Shared/SurveyPrompt.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
+[C:/Users/Maurício Preto/Desktop/Projeto Sem Limites/MVC/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/karasu/Desktop/SemLimites_ERP_MVC/MVC/_Imports.razor]
+[C:/Users/Maurício Preto/Desktop/Projeto Sem Limites/MVC/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/karasu/Desktop/SemLimites_ERP_MVC/MVC/Shared/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-9qg0f55qgg
+[C:/Users/Maurício Preto/Desktop/Projeto Sem Limites/MVC/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-338ko2b7h9
 
-[/home/karasu/Desktop/SemLimites_ERP_MVC/MVC/Shared/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-ykrrlt1c48
+[C:/Users/Maurício Preto/Desktop/Projeto Sem Limites/MVC/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-9paungodfg
 
-[/home/karasu/Desktop/SemLimites_ERP_MVC/MVC/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+[C:/Users/Maurício Preto/Desktop/Projeto Sem Limites/MVC/pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = cGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/karasu/Desktop/SemLimites_ERP_MVC/MVC/Pages/_Host.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0hvc3QuY3NodG1s
+[C:/Users/Maurício Preto/Desktop/Projeto Sem Limites/MVC/pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = cGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
