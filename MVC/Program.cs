@@ -25,11 +25,11 @@ builder.Services.AddAuthentication(config =>
     config.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
     config.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
 
-}).AddJwtBearer(x =>
+}).AddJwtBearer(config =>
 {
-    x.RequireHttpsMetadata = false;
-    x.SaveToken = true;
-    x.TokenValidationParameters = new TokenValidationParameters
+    config.RequireHttpsMetadata = false;
+    config.SaveToken = true;
+    config.TokenValidationParameters = new TokenValidationParameters
     {
         ValidateIssuerSigningKey = true,
         IssuerSigningKey = new SymmetricSecurityKey(key),
@@ -49,16 +49,19 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
-//Injetando no app o serviço de autenticação
-app.UseAuthentication();
-
+  
 app.UseHttpsRedirection();
+app.UseAuthentication();
 
 app.UseStaticFiles();
 
 app.UseRouting();
 
+//Injetando no app o serviço de autenticação
+app.UseAuthorization();
+
 app.MapBlazorHub();
 app.MapFallbackToPage("/_Host");
+ 
 
 app.Run();
