@@ -1,0 +1,32 @@
+.dsg-sec-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 600px; /* Define uma largura máxima */
+    margin: auto; /* Centraliza o formulário */
+}
+
+h2 {
+    color: black;
+    text-align: center;
+}
+
+div {
+    padding: 10px;
+}
+
+input {
+    margin-top: 5px; /* Pequena margem superior para espaçamento */
+}
+
+.input-highlight {
+    border: 2px solid #007bff; /* Cor azul para destacar as bordas */
+    background-color: #f8f9fa; /* Fundo levemente cinza para contraste */
+    border-radius: 5px; /* Borda arredondada */
+    padding: 10px; /* Aumenta o espaço interno */
+}
+
+button.btn-lg {
+    width: 100%; /* Torna o botão mais largo */
+    max-width: 300px; /* Define uma largura máxima */
+}
