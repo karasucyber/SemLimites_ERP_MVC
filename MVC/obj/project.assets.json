@@ -949,11 +949,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Atalhos Area de trabalho\\scripts\\Csharp Linguagem\\Webs\\System\\SemLimites_ERP_MVC\\MVC\\MVC.csproj",
+      "projectUniqueName": "D:\\Atalhos Area de trabalho\\scripts\\Csharp Linguagem\\Webs\\SemLimites_ERP_MVC\\MVC\\MVC.csproj",
       "projectName": "MVC",
-      "projectPath": "D:\\Atalhos Area de trabalho\\scripts\\Csharp Linguagem\\Webs\\System\\SemLimites_ERP_MVC\\MVC\\MVC.csproj",
+      "projectPath": "D:\\Atalhos Area de trabalho\\scripts\\Csharp Linguagem\\Webs\\SemLimites_ERP_MVC\\MVC\\MVC.csproj",
       "packagesPath": "C:\\Users\\DedSec🖥\\.nuget\\packages\\",
-      "outputPath": "D:\\Atalhos Area de trabalho\\scripts\\Csharp Linguagem\\Webs\\System\\SemLimites_ERP_MVC\\MVC\\obj\\",
+      "outputPath": "D:\\Atalhos Area de trabalho\\scripts\\Csharp Linguagem\\Webs\\SemLimites_ERP_MVC\\MVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

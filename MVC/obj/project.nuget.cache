@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HIf9w9ulKBg=",
+  "dgSpecHash": "z9ZvN/hYZlg=",
   "success": true,
-  "projectFilePath": "D:\\Atalhos Area de trabalho\\scripts\\Csharp Linguagem\\Webs\\System\\SemLimites_ERP_MVC\\MVC\\MVC.csproj",
+  "projectFilePath": "D:\\Atalhos Area de trabalho\\scripts\\Csharp Linguagem\\Webs\\SemLimites_ERP_MVC\\MVC\\MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DedSec🖥\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\DedSec🖥\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
