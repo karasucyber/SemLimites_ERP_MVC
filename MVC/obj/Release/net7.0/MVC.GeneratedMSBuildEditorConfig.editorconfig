@@ -1,0 +1,69 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MVC
+build_property.RootNamespace = MVC
+build_property.ProjectDir = D:\Documentos\projetos_curso_SEM_LIMITES\SemLimites_ERP_MVC\MVC\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Documentos\projetos_curso_SEM_LIMITES\SemLimites_ERP_MVC\MVC
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 7.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/Documentos/projetos_curso_SEM_LIMITES/SemLimites_ERP_MVC/MVC/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documentos/projetos_curso_SEM_LIMITES/SemLimites_ERP_MVC/MVC/components/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = Y29tcG9uZW50c1xTdXJ2ZXlQcm9tcHQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documentos/projetos_curso_SEM_LIMITES/SemLimites_ERP_MVC/MVC/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documentos/projetos_curso_SEM_LIMITES/SemLimites_ERP_MVC/MVC/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documentos/projetos_curso_SEM_LIMITES/SemLimites_ERP_MVC/MVC/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documentos/projetos_curso_SEM_LIMITES/SemLimites_ERP_MVC/MVC/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documentos/projetos_curso_SEM_LIMITES/SemLimites_ERP_MVC/MVC/components/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Y29tcG9uZW50c1xNYWluTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-xi802rckuj
+
+[D:/Documentos/projetos_curso_SEM_LIMITES/SemLimites_ERP_MVC/MVC/components/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Y29tcG9uZW50c1xOYXZNZW51LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-bkre148mog
+
+[D:/Documentos/projetos_curso_SEM_LIMITES/SemLimites_ERP_MVC/MVC/Pages/Cadastro/Cadastro.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FkYXN0cm9cQ2FkYXN0cm8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-wboywji4ko
+
+[D:/Documentos/projetos_curso_SEM_LIMITES/SemLimites_ERP_MVC/MVC/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documentos/projetos_curso_SEM_LIMITES/SemLimites_ERP_MVC/MVC/Pages/login/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbG9naW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documentos/projetos_curso_SEM_LIMITES/SemLimites_ERP_MVC/MVC/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

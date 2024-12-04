@@ -9,49 +9,59 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MVC
 build_property.RootNamespace = MVC
-build_property.ProjectDir = /home/karasu/Desktop/SemLimites_ERP_MVC/MVC/
+build_property.ProjectDir = D:\Atalhos Area de trabalho\scripts\Csharp Linguagem\Webs\SemLimites_ERP_MVC\MVC\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/karasu/Desktop/SemLimites_ERP_MVC/MVC
+build_property.MSBuildProjectDirectory = D:\Atalhos Area de trabalho\scripts\Csharp Linguagem\Webs\SemLimites_ERP_MVC\MVC
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/karasu/Desktop/SemLimites_ERP_MVC/MVC/App.razor]
+[D:/Atalhos Area de trabalho/scripts/Csharp Linguagem/Webs/SemLimites_ERP_MVC/MVC/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/karasu/Desktop/SemLimites_ERP_MVC/MVC/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
+[D:/Atalhos Area de trabalho/scripts/Csharp Linguagem/Webs/SemLimites_ERP_MVC/MVC/components/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = Y29tcG9uZW50c1xTdXJ2ZXlQcm9tcHQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/karasu/Desktop/SemLimites_ERP_MVC/MVC/Pages/FetchData.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
+[D:/Atalhos Area de trabalho/scripts/Csharp Linguagem/Webs/SemLimites_ERP_MVC/MVC/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/karasu/Desktop/SemLimites_ERP_MVC/MVC/Pages/Index.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+[D:/Atalhos Area de trabalho/scripts/Csharp Linguagem/Webs/SemLimites_ERP_MVC/MVC/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/karasu/Desktop/SemLimites_ERP_MVC/MVC/Shared/SurveyPrompt.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
+[D:/Atalhos Area de trabalho/scripts/Csharp Linguagem/Webs/SemLimites_ERP_MVC/MVC/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/karasu/Desktop/SemLimites_ERP_MVC/MVC/_Imports.razor]
+[D:/Atalhos Area de trabalho/scripts/Csharp Linguagem/Webs/SemLimites_ERP_MVC/MVC/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/karasu/Desktop/SemLimites_ERP_MVC/MVC/Shared/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-9qg0f55qgg
+[D:/Atalhos Area de trabalho/scripts/Csharp Linguagem/Webs/SemLimites_ERP_MVC/MVC/components/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Y29tcG9uZW50c1xNYWluTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-xi802rckuj
 
-[/home/karasu/Desktop/SemLimites_ERP_MVC/MVC/Shared/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-ykrrlt1c48
+[D:/Atalhos Area de trabalho/scripts/Csharp Linguagem/Webs/SemLimites_ERP_MVC/MVC/components/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Y29tcG9uZW50c1xOYXZNZW51LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-bkre148mog
 
-[/home/karasu/Desktop/SemLimites_ERP_MVC/MVC/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+[D:/Atalhos Area de trabalho/scripts/Csharp Linguagem/Webs/SemLimites_ERP_MVC/MVC/Pages/Cadastro/Cadastro.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FkYXN0cm9cQ2FkYXN0cm8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-wboywji4ko
+
+[D:/Atalhos Area de trabalho/scripts/Csharp Linguagem/Webs/SemLimites_ERP_MVC/MVC/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/karasu/Desktop/SemLimites_ERP_MVC/MVC/Pages/_Host.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0hvc3QuY3NodG1s
+[D:/Atalhos Area de trabalho/scripts/Csharp Linguagem/Webs/SemLimites_ERP_MVC/MVC/Pages/login/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbG9naW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Atalhos Area de trabalho/scripts/Csharp Linguagem/Webs/SemLimites_ERP_MVC/MVC/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
